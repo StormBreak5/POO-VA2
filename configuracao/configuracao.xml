@@ -1,0 +1,23 @@
+<mapeadores>
+	<mapeador tipo="BDR">
+		<chave>Cliente</chave>
+		<mapa>MapeadorBDRCliente</mapa>
+		<tabela>TabelaCliente</tabela></mapeador>
+	<mapeador tipo="BDR">
+		<chave>Fita</chave>
+		<mapa>MapeadorBDRFita</mapa>
+		<tabela>TabelaFita</tabela>
+	</mapeador>
+	<mapeador tipo="BDR">
+		<chave>Aluno</chave>
+		<mapa>MapeadorBDRAluno</mapa>
+		<tabela>TabelaAluno</tabela></mapeador>
+	<mapeador tipo="BDR">
+		<chave>Disciplina</chave>
+		<mapa>MapeadorBDRDisciplina</mapa>
+		<tabela>TabelaDisciplina</tabela></mapeador>
+	<mapeador tipo="BDR">
+		<chave>Matricula</chave>
+		<mapa>MapeadorBDRMatricula</mapa>
+		<tabela>TabelaMatricula</tabela></mapeador>
+</mapeadores>
